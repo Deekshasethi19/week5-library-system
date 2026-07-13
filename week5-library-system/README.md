@@ -101,9 +101,3 @@ python -m unittest discover tests
 - Book reservation system
 - Fine calculation
 - Email notifications
-
----
-
-## 👨‍💻 Author
-
-Developed as part of a Python Internship Project.
